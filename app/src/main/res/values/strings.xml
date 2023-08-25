@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Post Fetchy</string>
+    <string name="ic_button">Fetch Posts</string>
+</resources>
